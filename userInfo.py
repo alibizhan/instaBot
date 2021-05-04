@@ -1,3 +1,3 @@
-username = "ent.mavi"
-password = "930nosi"
-theirUsername = "cemalcenkk"
+username = ""
+password = ""
+theirUsername = ""
