@@ -1,3 +1,4 @@
+#run this file after getting followers and following.
 from userInfo import theirUsername 
 userFollowing = []
 userFollowers = []
