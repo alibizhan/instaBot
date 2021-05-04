@@ -1,3 +1,3 @@
 pip install selenium
 
-download and add selenium driver to the project directory
+download and add selenium driver to the project directory.
