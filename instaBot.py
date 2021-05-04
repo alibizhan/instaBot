@@ -174,8 +174,8 @@ class Instagram:
 
 ig = Instagram(username,password,theirUsername)
 ig.singIn()
-# 1 for followers list else for following list
-ig.getFollowers(2)
+# 1 for followers list else for following list, e.g. 2
+ig.getFollowers(1)
 #ig.download_user_images(theirUsername)
 #ig.followUser('')
 #ig.unFollowUser('')
